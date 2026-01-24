@@ -1,2 +1,1 @@
-The Tokarsky-Marinov Finder, Tester and Prover
-
+10.0.12
